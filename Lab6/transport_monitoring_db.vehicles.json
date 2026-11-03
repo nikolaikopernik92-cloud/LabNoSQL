@@ -1,0 +1,201 @@
+[{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5ae4"
+  },
+  "vehicleId": 501,
+  "type": "Truck",
+  "model": "Kamaz 5490",
+  "driver": "Yerlan Bekov",
+  "status": "active",
+  "speed": 62,
+  "mileage": 128500,
+  "location": {
+    "city": "Almaty",
+    "lat": 43.238949,
+    "lng": 76.889709
+  },
+  "equipment": [
+    "GPS",
+    "Fuel sensor",
+    "Camera"
+  ],
+  "serviceRequired": true
+},
+{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5ae5"
+  },
+  "vehicleId": 502,
+  "type": "Bus",
+  "model": "Yutong ZK6122",
+  "driver": "Aidos Nurlanov",
+  "status": "active",
+  "speed": 45,
+  "mileage": 210300,
+  "location": {
+    "city": "Almaty",
+    "lat": 43.222015,
+    "lng": 76.851248
+  },
+  "equipment": [
+    "GPS",
+    "Camera",
+    "Ticket validator"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5ae6"
+  },
+  "vehicleId": 503,
+  "type": "Van",
+  "model": "Ford Transit",
+  "driver": "Marat Iskakov",
+  "status": "active",
+  "speed": 0,
+  "mileage": 87450,
+  "location": {
+    "city": "Astana",
+    "lat": 51.169392,
+    "lng": 71.449074
+  },
+  "equipment": [
+    "GPS",
+    "Fuel sensor"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5ae7"
+  },
+  "vehicleId": 504,
+  "type": "Truck",
+  "model": "Volvo FH16",
+  "driver": "Sergey Petrov",
+  "status": "maintenance",
+  "speed": 0,
+  "mileage": 305200,
+  "location": {
+    "city": "Shymkent",
+    "lat": 42.317606,
+    "lng": 69.596428
+  },
+  "equipment": [
+    "GPS",
+    "Fuel sensor",
+    "Camera",
+    "Tire pressure sensor"
+  ],
+  "serviceRequired": true
+},
+{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5ae8"
+  },
+  "vehicleId": 505,
+  "type": "Car",
+  "model": "Toyota Camry",
+  "driver": "Dana Serik",
+  "status": "active",
+  "speed": 78,
+  "mileage": 43200,
+  "location": {
+    "city": "Almaty",
+    "lat": 43.25523,
+    "lng": 76.91275
+  },
+  "equipment": [
+    "GPS",
+    "Dashcam"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5ae9"
+  },
+  "vehicleId": 506,
+  "type": "Bus",
+  "model": "Higer KLQ6129",
+  "driver": "Nurlan Amanov",
+  "status": "active",
+  "speed": 51,
+  "mileage": 156700,
+  "location": {
+    "city": "Astana",
+    "lat": 51.128207,
+    "lng": 71.430411
+  },
+  "equipment": [
+    "GPS",
+    "Camera",
+    "Ticket validator"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5aea"
+  },
+  "vehicleId": 507,
+  "type": "Van",
+  "model": "Mercedes Sprinter",
+  "driver": "Aliya Zhaksybek",
+  "status": "idle",
+  "speed": 0,
+  "mileage": 65300,
+  "location": {
+    "city": "Almaty",
+    "lat": 43.246543,
+    "lng": 76.92841
+  },
+  "equipment": [
+    "GPS",
+    "Fuel sensor",
+    "Camera"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5aeb"
+  },
+  "vehicleId": 508,
+  "type": "Truck",
+  "model": "Scania R450",
+  "driver": "Bekzat Oralov",
+  "status": "active",
+  "speed": 84,
+  "mileage": 198450,
+  "location": {
+    "city": "Karaganda",
+    "lat": 49.806822,
+    "lng": 73.085273
+  },
+  "equipment": [
+    "GPS",
+    "Fuel sensor",
+    "Camera"
+  ],
+  "serviceRequired": true
+},
+{
+  "_id": {
+    "$oid": "6a9e7a36ca46854f869f5aed"
+  },
+  "vehicleId": 510,
+  "type": "Bus",
+  "model": "MAN Lion's City",
+  "driver": "Ruslan Dosov",
+  "status": "active",
+  "speed": 39,
+  "mileage": 175600,
+  "location": {
+    "city": "Shymkent",
+    "lat": 42.34125,
+    "lng": 69.58891
+  },
+  "equipment": [
+    "GPS",
+    "Camera",
+    "Ticket validator",
+    "Fuel sensor"
+  ]
+}]
