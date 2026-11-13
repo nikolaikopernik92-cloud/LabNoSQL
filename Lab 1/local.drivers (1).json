@@ -1,0 +1,172 @@
+[{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad07761"
+  },
+  "driverId": 8001,
+  "name": "Алексей",
+  "surname": "Смирнов",
+  "rating": 4.85,
+  "status": "активен",
+  "car": {
+    "model": "Toyota Camry",
+    "year": 2021,
+    "number": "777ABC02"
+  },
+  "languages": [
+    "русский",
+    "английский",
+    "турецкий"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad07762"
+  },
+  "driverId": 8002,
+  "name": "Дмитрий",
+  "surname": "Иванов",
+  "rating": 4.6,
+  "status": "на линии",
+  "car": {
+    "model": "Hyundai Accent",
+    "year": 2020,
+    "number": "123XYZ01"
+  },
+  "languages": [
+    "русский"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad07763"
+  },
+  "driverId": 8003,
+  "name": "Елена",
+  "surname": "Ким",
+  "rating": 4.95,
+  "status": "активен",
+  "car": {
+    "model": "Kia Rio",
+    "year": 2022,
+    "number": "555DFG02"
+  },
+  "languages": [
+    "русский",
+    "казахский",
+    "английский"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad07764"
+  },
+  "driverId": 8004,
+  "name": "Тимур",
+  "surname": "Каримов",
+  "rating": 4.35,
+  "status": "активен",
+  "car": {
+    "model": "Lada Granta",
+    "year": 2019,
+    "number": "444QWE05"
+  },
+  "languages": [
+    "русский",
+    "казахский"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad07765"
+  },
+  "driverId": 8005,
+  "name": "Марина",
+  "surname": "Соколова",
+  "rating": 4.78,
+  "status": "активен",
+  "car": {
+    "model": "Hyundai Elantra",
+    "year": 2023,
+    "number": "999ZXC02"
+  },
+  "languages": [
+    "русский"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad07766"
+  },
+  "driverId": 8006,
+  "name": "Руслан",
+  "surname": "Отегенов",
+  "rating": 4.9,
+  "status": "на линии",
+  "car": {
+    "model": "Chevrolet Cobalt",
+    "year": 2022,
+    "number": "111ASD03"
+  },
+  "languages": [
+    "русский",
+    "казахский"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad07767"
+  },
+  "driverId": 8007,
+  "name": "Анна",
+  "surname": "Пак",
+  "rating": 4.5,
+  "status": "на линии",
+  "car": {
+    "model": "Toyota Corolla",
+    "year": 2018,
+    "number": "333RTY02"
+  },
+  "languages": [
+    "русский",
+    "английский"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad07769"
+  },
+  "driverId": 8009,
+  "name": "Диана",
+  "surname": "Алиева",
+  "rating": 4.88,
+  "status": "на линии",
+  "car": {
+    "model": "Nissan Almera",
+    "year": 2021,
+    "number": "888JKl02"
+  },
+  "languages": [
+    "русский",
+    "казахский",
+    "английский"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a9e7e50cd3dc2213ad0776a"
+  },
+  "driverId": 8010,
+  "name": "Бекжан",
+  "surname": "Нуржанов",
+  "rating": 4.7,
+  "status": "активен",
+  "car": {
+    "model": "Volkswagen Polo",
+    "year": 2020,
+    "number": "666CVB04"
+  },
+  "languages": [
+    "русский",
+    "казахский"
+  ]
+}]
